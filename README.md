@@ -8,5 +8,6 @@ Contrastive Learning with Forward-Forward
 Algorithm for Optimizing Convergence (**Arxiv**) [[paper](https://arxiv.org/pdf/2303.08418)]
 - PIPETA: Error-driven Input Modulation: Solving the Credit Assignment Problem without
 a Backward Pass (**ICML 2022**) [[paper](https://arxiv.org/pdf/2201.11665)][[code](https://github.com/GiorgiaD/PEPITA)]
-- Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks **(ICLR 2024)**. \[[openreview](https://openreview.net/forum?id=MeB86edZ1P)\] \[[arxiv](https://arxiv.org/abs/2402.11984)\]
+- HLOP-SNN: Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks **(ICLR 2024)**. \[[openreview](https://openreview.net/forum?id=MeB86edZ1P)\] \[[arxiv](https://arxiv.org/abs/2402.11984)\]
+- Hebbian Deep Learning without feedback **(ICLR 2023)** [[openreview](https://openreview.net/forum?id=8gd4M-_Rj1)] [[arxiv](https://openreview.net/pdf?id=8gd4M-_Rj1)]
 
