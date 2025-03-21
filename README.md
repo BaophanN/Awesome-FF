@@ -13,5 +13,4 @@ a Backward Pass (**ICML 2022**) [[paper](https://arxiv.org/pdf/2201.11665)][[cod
 - On the robustness of fully-spiking neural networks in open-world scenatios using forward-only learning algorithm [[openreview](https://arxiv.org/pdf/2407.14097v1)] [[code](https://github.com/AnonymousSquirrel316/FFA_OOD)]
 - Backpropagation-free Spiking Neural Networks with the Forward-Forward
 Algorithm [[openreview](https://www.arxiv.org/pdf/2502.20411)]
-
-
+- Constrastive-signal-dependent plasticity: self-supervised learning in spiking neural circuits (**Science Advances**) [[arxiv](https://arxiv.org/pdf/2303.18187)]
